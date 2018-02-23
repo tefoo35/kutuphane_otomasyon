@@ -1,0 +1,224 @@
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\kutuphane2.exe.config
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\kutuphane2.exe
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\kutuphane2.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.anasayfa.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.Properties.Resources.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.csproj.GenerateResource.Cache
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.exe.licenses
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.exe
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.kitapliste.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.KitapEkle.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.OgrEkle.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.OgrListe.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.GeriVer.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.KitapAl.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.kitapalmabilgi.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.Sonİslemler.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.Bildirimler.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.KitapDuzenle.resources
+C:\Users\lenovo\documents\visual studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.OgrDuzenle.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.SureUzat.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.kitapsayi.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.okumasuresi.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.bilgiler.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\kutuphane2\kutuphane2\obj\Debug\kutuphane2.nasıl.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\kutuphane2.exe.config
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.exe
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.pdb
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\kutuphane2.exe
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\kutuphane2.pdb
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.Bildirimler.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.bilgiler.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.anasayfa.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.GeriVer.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.KitapAl.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.kitapalmabilgi.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.KitapDuzenle.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.KitapEkle.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.kitapliste.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.kitapsayi.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.nasıl.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.OgrDuzenle.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.OgrEkle.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.OgrListe.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.okumasuresi.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.Properties.Resources.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.Sonİslemler.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.SureUzat.resources
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\kutuphane2\kutuphane2\obj\Debug\kutuphane2.exe.licenses
